@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="ImportExportAction">
+		<item key="ImportExportPage.STORE_SELECTED_IMPORT_WIZARD_ID" value="org.eclipse.ui.wizards.import.FileSystem"/>
+		<list key="ImportExportPage.STORE_EXPANDED_IMPORT_CATEGORIES">
+			<item value="org.eclipse.ui.Basic"/>
+			<item value="org.eclipse.buildship.ui.importwizards"/>
+			<item value="org.eclipse.equinox.p2.category"/>
+			<item value="org.eclipse.m2e"/>
+			<item value="org.eclipse.tm4e.ui.wizards"/>
+		</list>
+	</section>
+	<section name="PreferencesImportWizard">
+		<item key="" value="/Users/diego/Downloads/eclipse-master/dracula-theme.xml"/>
+		<list key="WizardPreferencesExportPage1.STORE_DESTINATION_NAMES_ID">
+			<item value="/Users/diego/Downloads/eclipse-master/dracula-theme.xml"/>
+		</list>
+	</section>
+	<section name="NewWizardAction">
+	</section>
+	<section name="FileSystemImportWizard">
+		<item key="WizardFileSystemResourceImportPage1.STORE_OVERWRITE_EXISTING_RESOURCES_ID" value="false"/>
+		<item key="WizardFileSystemResourceImportPage1.STORE_CREATE_CONTAINER_STRUCTURE_ID" value="false"/>
+		<list key="WizardFileSystemResourceImportPage1.STORE_SOURCE_NAMES_ID">
+			<item value="/Users/diego/Documents/Universidad/2 - AyED/Prácticas/Practica 4/tp04_ag/src/tp04/ejercicio1"/>
+			<item value="/Users/diego/Documents/Universidad/2 - AyED/Prácticas/Practica 4/tp04_ag/src/tp02"/>
+			<item value="/Users/diego/Documents/Universidad/2 - AyED/Prácticas/Practica 4/tp04_ag"/>
+			<item value="/Users/diego/Documents/Universidad/2 - AyED/Prácticas/Practica 3/tp3_ab"/>
+		</list>
+	</section>
+</section>

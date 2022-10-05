@@ -1,0 +1,12 @@
+package tp04.ejercicio5;
+
+import tp04.ejercicio1.ArbolGeneral;
+
+public class AnalizadorArbol {
+	
+	public int devolverMaximoPromedio(ArbolGeneral<AreaEmpresa> arbol) {
+		
+		
+		return 0;
+	}
+}

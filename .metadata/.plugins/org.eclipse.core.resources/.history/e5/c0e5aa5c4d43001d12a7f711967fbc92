@@ -1,0 +1,17 @@
+package tp04.ejercicio5;
+
+public class TestAnalizadorArbol {
+
+	public static void main(String[] args) {
+		/*
+		 *                           M-14
+		 *               /           |               \
+		 *          J-13             K-25             L-10
+		 *        /   |   \       /    |    \       /   |    \
+		 *      A-4  B-7  C-5   D-6  E-10  F-18   G-9  H-12  I-19
+		 * 
+		 */
+
+	}
+
+}

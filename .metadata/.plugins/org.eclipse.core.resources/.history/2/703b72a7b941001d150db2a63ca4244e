@@ -1,0 +1,8 @@
+package tp04.ejercicio3;
+
+public class RecorridosAG {
+	
+	public ListaGenerica<Integer> numeroImparesMayoresQuePreOrden(ArbolGeneral<Integer> a, Integer n) {
+		
+	}
+}

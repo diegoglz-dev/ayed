@@ -1,0 +1,17 @@
+package tp04.ejercicio1;
+
+public class Altura {
+	int altura;
+	
+	public Altura() {
+		this.altura = 0;
+	}
+	
+	public int getAltura() {
+		return altura;
+	}
+
+	public void setAltura(int altura) {
+		this.altura = altura;
+	}
+}
