@@ -6,12 +6,12 @@
     <fullyQualifiedTypeName name="tp01.ejercicio3.Estudiante"/>
     <fullyQualifiedTypeName name="tp04.ejercicio1.ArbolGeneral"/>
     <fullyQualifiedTypeName name="tp03.ejercicio1.ArbolBinario"/>
-    <fullyQualifiedTypeName name="tp06.ejercicio3.Grafo"/>
-    <fullyQualifiedTypeName name="tp06.ejercicio3.Arista"/>
     <fullyQualifiedTypeName name="tp02.ejercicio2.ColaGenerica"/>
+    <fullyQualifiedTypeName name="tp02.ejercicio2.ListaEnlazadaGenerica"/>
+    <fullyQualifiedTypeName name="tp06.ejercicio3.Arista"/>
+    <fullyQualifiedTypeName name="tp06.ejercicio3.Vertice"/>
     <fullyQualifiedTypeName name="tp06.ejercicio3.VerticeImplListAdy"/>
     <fullyQualifiedTypeName name="tp06.ejercicio3.GrafoImplListAdy"/>
-    <fullyQualifiedTypeName name="tp02.ejercicio2.ListaEnlazadaGenerica"/>
-    <fullyQualifiedTypeName name="tp06.ejercicio3.Vertice"/>
+    <fullyQualifiedTypeName name="tp06.ejercicio3.Grafo"/>
     <fullyQualifiedTypeName name="tp02.ejercicio2.ListaGenerica"/>
 </qualifiedTypeNameHistroy>
